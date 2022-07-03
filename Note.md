@@ -1,3 +1,3 @@
-Saya membuat Crud Laravel ini melihat referensi tutorial di youtube, dan saya sedikit merubah coding tersebut yaitu, tampilan tabel dan isi tabel dari tabel Warga ke tabel Mahasiswa, serta mengubah warna dan tulisan di tombol opsi add, delete, save.
-Link tutorial youtube yang saya buat referensi https://www.youtube.com/watch?v=p00Glaf8VTo&list=PLOpjxspexSIkCQNhoW8mKpQqXBgqPalxj
-Dalam membuat Crud Laravel tersebut tidak sedikit hambatan atau kendala yang saya temui, seperti tombol save/simpan ketika ditekan tidak menyimpan melainkan eror, penempatan tombol add yang tertutup tabel, dan tata letak tombol delete/hapus
+<p>Saya membuat Crud Laravel ini melihat referensi tutorial di youtube, dan saya sedikit merubah coding tersebut yaitu, tampilan tabel dan isi tabel dari tabel Warga ke tabel Mahasiswa, serta mengubah warna dan tulisan di tombol opsi add, delete, save.</p>
+<p>Link tutorial youtube yang saya buat referensi https://www.youtube.com/watch?v=p00Glaf8VTo&list=PLOpjxspexSIkCQNhoW8mKpQqXBgqPalxj</p>
+<p>Dalam membuat Crud Laravel tersebut tidak sedikit hambatan atau kendala yang saya temui, seperti tombol save/simpan ketika ditekan tidak menyimpan melainkan eror, penempatan tombol add yang tertutup tabel, dan tata letak tombol delete/hapus</p>
